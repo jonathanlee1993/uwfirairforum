@@ -1,0 +1,25 @@
+Package: uwfirairforum
+Type: Package
+Title: Custom Modeling Utilities for AirForum 2025
+Version: 0.1.0
+Author: Jonathan Lee
+Maintainer: Jonathan Lee <jlee1@uwf.edu>
+Description: A collection of helper functions and visualizations for model evaluation and presentation.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    stringr,
+    yardstick,
+    broom,
+    ggplot2,
+    tidyr,
+    DT,
+    htmltools,
+    glue,
+    plotly,
+    tidyquant,
+    purrr,
+    rlang
+RoxygenNote: 7.3.1
